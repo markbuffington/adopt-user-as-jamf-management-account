@@ -1,5 +1,8 @@
 # adopt-user-as-jamf-management-account
 
+## At JNUC, will have last bits with screenshots that were in presentation added to this tonight... <3 Mark
+
+
 ## Background:
 
 In certain Automated Device Enrollment workflows of Macs with Jamf Pro, an IT admin may be required to create a local administrator account as part of their PreStage Enrollment. This account, also referred to as a "Managed Administrator" by Apple, is required to be created in order to either make the user created by the macOS Setup Assistant a Standard user, or when skipping user account creation completely in the Setup Assistant. (Note: This account should not be confused with the "Jamf Management Account," which is an account that can be created by the Jamf management framework after MDM enrollment completes.
