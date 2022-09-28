@@ -30,3 +30,7 @@ Ongoing, if the password for this account needs to be used, a policy may be targ
 
 By including a check for the existence of a Bootstrap Token before changing the MDM-created admin account to a randomized password, this ensures that the Jamf policy will only run after the primary user of the computer has signed in, received the first SecureToken, and also had the bootstrap token automatically escrowed to Jamf Pro.
 
+
+## Workflow: Setup Instructions
+
+## Workflow: Deployment Play-by-Play
