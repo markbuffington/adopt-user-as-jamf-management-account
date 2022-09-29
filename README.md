@@ -2,6 +2,8 @@
 
 ## At JNUC, will have last bits with screenshots that were in presentation added to this tonight... <3 Mark
 
+(The main purpose of having a "blog" readme like this is to add more nuance to the bootstrap token requirements to avoid issues with cryptographic users during enrollment.)
+
 
 ## Background:
 
